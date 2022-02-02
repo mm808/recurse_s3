@@ -10,7 +10,6 @@ def list_buckets():
         response = s3_client.list_buckets(NextToken=response["NextToken"])
         bucket_list.extend(response["Buckets"])
 
-    # with open('xmen.txt', 'w+') as my_file:
     with open('bucket_and_prefixes.txt', 'w') as bucketfile:
         for bucket in bucket_list:
             bucket_name = bucket['Name']
