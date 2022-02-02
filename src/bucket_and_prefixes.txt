@@ -1,0 +1,212 @@
+Bucket name: app-astech-webapp
+prefix list:
+    dev/
+    prod/
+    stg/
+Bucket name: astech-api-statics-lighthoustech-io
+prefix list:
+    dev/
+    prod/
+    qa/
+    stg/
+Bucket name: astech-automation
+prefix list:
+    dev/
+    hardtofind/
+    prod/
+    secrets/
+    support_zips/
+    uat/
+Bucket name: astech-chat-library
+    Bucket astech-chat-library doesn't have folders
+Bucket name: astech-video-resource
+    Bucket astech-video-resource doesn't have folders
+Bucket name: athena-queries-for-aci889
+prefix list:
+    Unsaved/
+    access%20denied%20not%20ses/
+    adm_emcmathis%20user%20activity/
+    all%20non%20admin%20user%20activity/
+    all%20user%20names%20only/
+    all%20user%20names/
+    all_user_activity_Dec06_21/
+    conquest-bucket-query/
+    ecs-events-all/
+    events%20using%20accesskey/
+    find%20access%20denied%20events/
+    find%20proj%20conq%20access%20events/
+    resources%20first/
+    timestamp%20resources%20%20eventsource%20eventname%20useragent%20/
+Bucket name: aws-athena-query-results-595115527899-us-east-1
+prefix list:
+    aws-cloudtrail-logs-595115527899-e9118cd8/
+Bucket name: aws-cloudtrail-logs-595115527899-e9118cd8
+prefix list:
+    AWSLogs/
+Bucket name: aws-cloudtrail-logs-aci889
+prefix list:
+    AWSLogs/
+    admingroup/
+Bucket name: aws-cloudtrail-logs-for-proj-conq-bucket
+prefix list:
+    AWSLogs/
+Bucket name: aws-cloudtrail-logs-prod-and-dev
+prefix list:
+    AWSLogs/
+Bucket name: aws-sam-cli-managed-default-samclisourcebucket-r6xsvgqm7s7d
+prefix list:
+    autel-email-processor/
+Bucket name: builds-astech-io
+prefix list:
+    app-astech-internal-webapp/
+    app-astech-webapp/
+Bucket name: ccc-l377rk1b2jxnm0q3nchg
+prefix list:
+    dev/
+    local/
+    prod/
+    stg/
+Bucket name: cf-templates-1a9jbww2v1anb-us-east-1
+prefix list:
+    2020250tlP-designer/
+    2020250vti-designer/
+    20202511ub-designer/
+    20202529uJ-designer/
+    2020252Fah-designer/
+    2020252Wcq-designer/
+    2020252bNz-designer/
+    2020252zAa-designer/
+Bucket name: cf-templates-1a9jbww2v1anb-us-east-2
+    Bucket cf-templates-1a9jbww2v1anb-us-east-2 doesn't have folders
+Bucket name: chat-library-bucket
+prefix list:
+    prod/
+    uat/
+Bucket name: chat-webhook-bucket-astech-io
+prefix list:
+    prod/
+    uat/
+Bucket name: codebuild-astech-io
+    Bucket codebuild-astech-io doesn't have folders
+Bucket name: config-bucket-595115527899
+prefix list:
+    AWSLogs/
+Bucket name: connect-internal-webapp-astech-io
+prefix list:
+    prod/
+    stg/
+Bucket name: connect-workorder-uploads-astech-io
+prefix list:
+    dev/
+    docs/
+    prod/
+    qa/
+    uat/
+Bucket name: cs-fw-astech-io
+    Bucket cs-fw-astech-io doesn't have folders
+Bucket name: devops-testbucket-prod-sse
+    Bucket devops-testbucket-prod-sse doesn't have folders
+Bucket name: elasticbeanstalk-us-east-1-595115527899
+prefix list:
+    AsTechConquestWeb/
+    AsTechConquestWeb2/
+    resources/
+Bucket name: emails-l377rk1b2jxnm0q3nchg
+prefix list:
+    elasticsearch-failed/
+Bucket name: html-pdf-generator-statics-astech-io
+prefix list:
+    prod/
+    static/
+    uat/
+Bucket name: iics-serverless
+prefix list:
+    Infa_param_files/
+    serverless_agent_config/
+Bucket name: intrepid-ui
+prefix list:
+    prod/
+    stg/
+Bucket name: invoices-l377rk1b2jxnm0q3nchg
+    Bucket invoices-l377rk1b2jxnm0q3nchg doesn't have folders
+Bucket name: key-sniffer-ui
+prefix list:
+    prod/
+    stg/
+Bucket name: kpit-data-exchange
+prefix list:
+    scan_tool_PDFs/
+Bucket name: networktshoot
+prefix list:
+    AWSLogs/
+Bucket name: oem-scan-reports
+prefix list:
+    dev/
+    prod/
+    uat/
+Bucket name: procare-email-bucket-astech-io
+    Bucket procare-email-bucket-astech-io doesn't have folders
+Bucket name: procare-l377rk1b2jxnm0q3nchg
+prefix list:
+    dev/
+    emails/
+    local/
+    prod/
+    stg/
+    test/
+Bucket name: procare-statics-astech-io
+prefix list:
+    prod/
+    stg/
+Bucket name: project-conquest
+prefix list:
+    autoenginuity-legacy-xml/
+    module-mapping/
+    prod/
+    s3_inventory/
+    test/
+    uat/
+    vins/
+Bucket name: repairify-data-lake
+prefix list:
+    AfterMarketScanReports/
+    DTC_FIX/
+    OEM_v_AM/
+    ProofOfConcept/
+    Textract/
+    aaia_databases/
+    autocare_ref_data/
+    bd-module-acronyms/
+    ccc_estimates/
+    conquest_temp_files/
+    hourglass-dtc-definitions/
+    kpit/
+    oem-module-xml/
+    samdbox/
+Bucket name: s3-logicmonitor
+    Bucket s3-logicmonitor doesn't have folders
+Bucket name: scanreports-l377rk1b2jxnm0q3nchg
+prefix list:
+    local/
+    prod/
+    stg/
+    uat/
+Bucket name: secrets-astech-io
+prefix list:
+    app-astech-internal-webapp/
+    app-astech-webapp/
+    astech-backend/
+    astech-expess/
+    astech-express/
+    astech-guacapp/
+    automation-mfa-image-parser/
+    automation-report-parser/
+    automation-workorder-insertion/
+    bms-integration/
+    html-pdf-generator/
+Bucket name: textract-console-us-east-1-517744c2-26b6-4ce1-bdb6-a4a035c5188a
+    Bucket textract-console-us-east-1-517744c2-26b6-4ce1-bdb6-a4a035c5188a doesn't have folders
+Bucket name: zappa-astech-io
+    Bucket zappa-astech-io doesn't have folders
+Bucket name: zappa-m9xbh5f4z
+    Bucket zappa-m9xbh5f4z doesn't have folders
